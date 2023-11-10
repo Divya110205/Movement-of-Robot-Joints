@@ -30,7 +30,8 @@ def OnRun():
 ```
 ## Output
 ### 1. Generic Articulated Robot
-![vc 1](https://github.com/Divya110205/Movement-of-Robot-Joints/assets/119404855/060de36b-c249-4946-b8e8-6d4d94c00ede)
+![vc 1](https://github.com/Divya110205/Movement-of-Robot-Joints/assets/119404855/280c64f8-a3eb-46bf-a48e-ad7b595e42ed)
+
 
 
 
