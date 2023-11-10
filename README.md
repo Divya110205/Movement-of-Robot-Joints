@@ -43,10 +43,10 @@ def OnRun():
 ![vc 3](https://github.com/Divya110205/Movement-of-Robot-Joints/assets/119404855/b3c06a4b-3dd2-40f5-a7e2-544dbd1d0ad7)
 
 
-### 3. Movement of Joint2
+### 4. Movement of Joint2
 ![vc 4](https://github.com/Divya110205/Movement-of-Robot-Joints/assets/119404855/ad5f8f7d-f838-4860-9c62-8a93f4602fb3)
 
-### 3. Movement of Joint3
+### 5. Movement of Joint3
 ![vc 5](https://github.com/Divya110205/Movement-of-Robot-Joints/assets/119404855/4e3b0b85-df67-470c-932b-0962c386dd62)
 
 
