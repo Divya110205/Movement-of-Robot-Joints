@@ -1,4 +1,5 @@
-# Movement-of-Robot-Joints
+# EX 8: Movement-of-Robot-Joints
+## Date: 07.11.23
 ## Aim:  
 To move and drive the joints of the robot using python API.
 
